@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.jst.ws.jaxrs.ui' version='1.0.800.v201803062123'/>
+</artifacts>

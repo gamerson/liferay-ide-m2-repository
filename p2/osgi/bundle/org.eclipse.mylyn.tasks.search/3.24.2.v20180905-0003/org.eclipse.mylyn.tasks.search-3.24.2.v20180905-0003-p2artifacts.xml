@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.tasks.search' version='3.24.2.v20180905-0003'/>
+</artifacts>
